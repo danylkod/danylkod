@@ -1,6 +1,3 @@
-![header](https://capsule-
-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sunglok%20Choi&fontSize=32)
-
 # **Denys - Fullstack Developer**
 
 Hey 🙂
