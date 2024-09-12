@@ -3,9 +3,9 @@ render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sung
 
 # **Denys - Fullstack Developer**
 
-Hey :)
+Hey 🙂
 
-I am **Denys**, a Fullstack Developer at **Emplifi**, where I initially started with frontend development but have since expanded my skill set to include backend work. Over the course of my career, I have successfully completed **50+ projects** and continue to grow as a versatile developer.
+I am **Denys**, a Fullstack Developer at [Emplifi](https://emplifi.io/), where I initially started with frontend development but have since expanded my skill set to include backend work. Over the course of my career, I have successfully completed **50+ projects** and continue to grow as a versatile developer.
 
 I am originally from **Ukraine** and have been working in the web development industry for **7 years**.
 My passion for technology drives me to continuously study, with a clear goal in mind: to transition into the **robotics** field in the future.
@@ -35,4 +35,4 @@ My passion for technology drives me to continuously study, with a clear goal in 
 - 💼 [LinkedIn](https://www.linkedin.com/in/danylkod/)
 - 🌍 [Upwork](https://www.upwork.com/freelancers/~01ac66f279b7e37561)
 
-I am excited to keep growing, learning, and sharing my journey with the developer community as I pursue my ambition of making impactful contributions in the robotics field.
+I am excited to keep growing, learning, and sharing my journey with the developer community as I continue to make impactful contributions in the fullstack development sphere.
