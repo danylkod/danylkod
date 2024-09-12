@@ -7,12 +7,6 @@ I am **Denys**, a Fullstack Developer at [Emplifi](https://emplifi.io/), where I
 I am originally from **Ukraine** and have been working in the web development industry for **7 years**.
 My passion for technology drives me to continuously study, with a clear goal in mind: to transition into the **robotics** field in the future.
 
-## **My Key Interests**:
-
-- 💻 **Fullstack Development**: Expertise in both frontend and backend technologies, working with a wide variety of web development frameworks and tools.
-- 🤖 **Robotics**: Motivated to break into the robotics sphere, contributing to innovative automation and machine intelligence.
-- 🌟 **Continuous Learning**: Constantly seeking to expand my knowledge and skills, particularly in emerging tech like AI and robotics.
-
 ## **Achievements**:
 
 - 🎯 **7 years** of professional experience in fullstack development.
@@ -26,6 +20,12 @@ My passion for technology drives me to continuously study, with a clear goal in 
 - 📍 **Backend**: JS | TS | Python | Node.js | Express.js
 - 📍 **Databases**: GraphQL | MySQL | PostgreSQL | MongoDB
 - 📍 **Design Tools**: Figma | Adobe XD
+
+## **My Key Interests**:
+
+- 💻 **Fullstack Development**: Expertise in both frontend and backend technologies, working with a wide variety of web development frameworks and tools.
+- 🤖 **Robotics**: Motivated to break into the robotics sphere, contributing to innovative automation and machine intelligence.
+- 🌟 **Continuous Learning**: Constantly seeking to expand my knowledge and skills, particularly in emerging tech like AI and robotics.
 
 ## **Connect with Me**:
 
